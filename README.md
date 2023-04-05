@@ -5,8 +5,8 @@
 - ❤️ I'm a lover of open source software, looking to start contributing back more.  
 
 #### 🌱 I'm currently exploring...
-- [Local-first](https://www.inkandswitch.com/local-first/) technolgoies like CRDTs in [Athena](https://github.com/ben-ryder/athena), where I'm building an app for notes, tasks, journalling etc.
-- Design systems in [Jigsaw](https://github.com/ben-ryder/jigsaw), which is a design system and component library for use in my other projects.
+- [Local-first](https://www.inkandswitch.com/local-first/) technologies like CRDTs in my [Athena](https://github.com/ben-ryder/athena) and [Local-First Backend](https://github.com/ben-ryder/local-first-backend) projects.
+- Design systems in my component library and design system called [Jigsaw](https://github.com/ben-ryder/jigsaw).
 
 <!--
 **ben-ryder/ben-ryder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
