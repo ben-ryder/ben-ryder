@@ -1,12 +1,12 @@
 ### Hi I'm Ben 👋
 
 #### 🤔 About
-- 👨‍💻 I'm intrested in all things web dev, especially Node.js APIs and client-side React SPAs at the moment.
+- 👨‍💻 I'm intrested in all things web dev, especially developing Node.js apps and React SPAs at the moment.
 - ❤️ I'm a lover of open source software, looking to start contributing back more.  
 
 #### 🌱 I'm currently exploring...
-- [Local-first](https://www.inkandswitch.com/local-first/) technologies like CRDTs in my [Athena](https://github.com/ben-ryder/athena) and [Local-First Backend](https://github.com/ben-ryder/local-first-backend) projects.
-- Design systems in my component library and design system called [Jigsaw](https://github.com/ben-ryder/jigsaw).
+- [Local-first](https://www.inkandswitch.com/local-first/) technologies like CRDTs in my [Athena](https://github.com/ben-ryder/athena) and [Localful](https://github.com/ben-ryder/localful) projects.
+- Design systems in my component library and design system [Jigsaw](https://github.com/ben-ryder/jigsaw).
 
 <!--
 **ben-ryder/ben-ryder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
