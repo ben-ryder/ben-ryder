@@ -1,11 +1,11 @@
 ### Hi I'm Ben 👋
 
-#### 🤔 About
-- 👨‍💻 I'm intrested in all things web dev, especially developing Node.js apps and React SPAs at the moment.
+#### 🤔 About me...
+- 👨‍💻 I'm intrested in all things web dev, especially developing with Node.js and React at the moment.
 - ❤️ I'm a lover of open source software, looking to start contributing back more.  
 
 #### 🌱 I'm currently exploring...
-- [Local-first](https://www.inkandswitch.com/local-first/) technologies like CRDTs in my [Athena](https://github.com/ben-ryder/athena) and [Localful](https://github.com/ben-ryder/localful) projects.
+- [Local-first](https://www.inkandswitch.com/local-first/) web applications in my [Athena](https://github.com/ben-ryder/athena) and [Localful](https://github.com/ben-ryder/localful) projects.
 - Design systems in my component library and design system [Jigsaw](https://github.com/ben-ryder/jigsaw).
 
 <!--
